@@ -6,6 +6,6 @@ We listed papers that related to machine translation for low-resource languages.
 
 ## Statistical Machine Translation (SMT) model
 ## Neural Machine Translation (NMT) model
-* [B. Zoph, D. Yuret, J.May et al. Transfer Learning for Low-resource Neural Machine Translation. 2016] (https://www.aclweb.org/anthology/D16-1163/)
+* [B. Zoph, D. Yuret, J.May et al. Transfer Learning for Low-resource Neural Machine Translation. Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing.2016](https://www.aclweb.org/anthology/D16-1163/)
 
 ## Unsupervised Statistical Machine Translation (Uns-SMT) model
